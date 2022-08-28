@@ -206,7 +206,18 @@
 
 </style>
 
-</head>
+  
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            delimiters: [
+                {left: "$$", right: "$$", display: true},
+                {left: "$", right: "$", display: false}
+            ]
+        });
+    });
+</script></head>
 
 <body>
   <header><a href="/" class="title">

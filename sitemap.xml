@@ -3,21 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.orsonhart.com/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.orsonhart.com/blog/</loc>
+    <loc>https://www.orsonhart.com/posts/config/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.orsonhart.com/posts/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.orsonhart.com/posts/test/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.orsonhart.com/t/</loc>
+    <lastmod>2022-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.orsonhart.com/posts/markdown/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.orsonhart.com/blog/markdown/</loc>
+    <loc>https://www.orsonhart.com/syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.orsonhart.com/markdown-syntax-guide/</loc>
+    <loc>https://www.orsonhart.com/posts/syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.orsonhart.com/blog/syntax/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.orsonhart.com/projects/</loc>
   </url>
 </urlset>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en-GB">
 
 <head>
   <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
@@ -9,7 +9,7 @@
 <title>404</title>
 <meta name="title" content="404 Page not found" />
 <meta name="description" content="Personal Website for Orson Hart" />
-<meta name="keywords" content="markdown,syntax," />
+<meta name="keywords" content="config,markdown,syntax,test," />
 
 
 <meta property="og:title" content="404 Page not found" />
@@ -205,18 +205,27 @@
 
 </style>
 
-</head>
+  
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            delimiters: [
+                {left: "$$", right: "$$", display: true},
+                {left: "$", right: "$", display: false}
+            ]
+        });
+    });
+</script></head>
 
 <body>
   <header><a href="/" class="title">
-  <h2>Orson Hart </h2>
+  <h2>Orson Hart</h2>
 </a>
 <nav><a href="/">Home</a>
 
-<a href="/projects/">Projects</a>
 
-
-<a href="/blog">Blog</a>
+<a href="/posts">Posts</a>
 
 </nav>
 </header>
