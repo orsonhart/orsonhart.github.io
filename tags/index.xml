@@ -6,9 +6,36 @@
     <description>Recent content in Tags on Orson Hart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://orsonhart.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>On Short URLs</title>
+      <link>https://orsonhart.com/short-urls/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://orsonhart.com/short-urls/</guid>
+      <description>&lt;p&gt;I went back and forth on how to structure URLs for this website. On reading Derek Sivers&amp;rsquo; post &lt;a href=&#34;https://sive.rs/su&#34;&gt;Short URLs: why and how&lt;/a&gt;, I agreed with his reasons - they look nicer and are easier to type and remember - and so thought it would be good to implement his suggestions.&lt;/p&gt;
+&lt;h2 id=&#34;domain&#34;&gt;Domain&lt;/h2&gt;
+&lt;p&gt;I decided to use &lt;code&gt;orsonh.art&lt;/code&gt; as a shorter (and more fun) domain name, and I was planning on using single word or abbreviated URLs. I instantly ran into my first problem. &lt;strong&gt;Ease of communication&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;orsonh.art&lt;/code&gt; is easier to type, but harder to communicate. As a comment on Sivers&amp;rsquo; original post notes&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Love the philosophy of short URLS. The only barrier I&amp;rsquo;ve found is communicating them verbally&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I tried to explain my cool new URL to a handful of people, and it always took longer for them to understand than the simpler &lt;code&gt;orsonhart.com&lt;/code&gt;. Another upside to using &lt;code&gt;orsonhart.com&lt;/code&gt; is that &lt;code&gt;.com&lt;/code&gt; is a universally recognised, and more sensible, top-level domain. A friend of mine said &lt;em&gt;&amp;ldquo;orsonh.art sounds like your an artist named orsonh&amp;rdquo;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I did, however, drop the &lt;code&gt;www.&lt;/code&gt;. It&amp;rsquo;s much nicer.&lt;/p&gt;
+&lt;h2 id=&#34;post-links&#34;&gt;Post Links&lt;/h2&gt;
+&lt;p&gt;After writing a single post, one of the disadvantages of short URLs &lt;a href=&#34;https://qntm.org/urls&#34;&gt;mentioned by qntm&lt;/a&gt; became apparent, &lt;em&gt;&amp;ldquo;You do actually have to think of something.&amp;rdquo;&lt;/em&gt;. It is hard &lt;em&gt;(impossible?)&lt;/em&gt; to write a meaningful link using very few characters. I like the fact that a slightly longer, although still concise, URL gives you information about the link you are clicking on.&lt;/p&gt;
+&lt;p&gt;Very few people will remember or type a URL. Most will follow a link posted elsewhere, and so I decided to prioritise&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clarity over conciseness.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Information over aesthetic.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cleanness over clutter.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     
     
@@ -21,12 +48,12 @@
       <description>&lt;p&gt;As a digital minimalist, I often want to spend time disconnected. To limit the amount of time I spend using a smartphone, I like to listen to music, audiobooks, and podcasts on my 2009 iPod Classic.&lt;/p&gt;
 &lt;p&gt;One challenge is that some media is resistant to being accessed offline. This includes my absolute favourite - the Hamish and Andy podcast - which has its entire back catalogue &lt;a href=&#34;https://handa.libsyn.com/&#34;&gt;available on Libsyn&lt;/a&gt; available with a premium subscription. This post will explain how to download these premium podcasts for archiving or offline listening.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Note: These instructions are designed to work on Windows.&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;tools-required&#34;&gt;Tools Required&lt;/h3&gt;
+&lt;h2 id=&#34;tools-required&#34;&gt;Tools Required&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;A premium Hamish and Andy subscription&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/yt-dlp/yt-dlp&#34;&gt;yt-dlp&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;steps&#34;&gt;Steps&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Create a folder for your downloads and put &lt;code&gt;yt-dlp.exe&lt;/code&gt; here.&lt;/li&gt;
 &lt;li&gt;Login to Libsyn and navigate to the page at &lt;a href=&#34;https://handa.libsyn.com/&#34;&gt;handa.libsyn.com&lt;/a&gt; listing the podcasts you want to download. Scroll to the bottom to load them all.&lt;/li&gt;
@@ -38,56 +65,6 @@
 &lt;p&gt;Let &lt;code&gt;yt-dlp&lt;/code&gt; run and all the podcast files should be downloaded to the specified &lt;code&gt;/YYYY/MM&lt;/code&gt; folder. A screenshot of the podcasts from February 2013 is below.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://orsonhart.com/handa_list.png&#34; alt=&#34;handa_list&#34;&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://orsonhart.com/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://orsonhart.com/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;
-&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
-caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
-lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
-&lt;li&gt;Duce pollice&lt;/li&gt;
-&lt;li&gt;Eris modo&lt;/li&gt;
-&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus
-silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria
-tractus malis.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Comas hunc haec pietate fetum procerum dixit&lt;/li&gt;
-&lt;li&gt;Post torum vates letum Tiresia&lt;/li&gt;
-&lt;li&gt;Flumen querellas&lt;/li&gt;
-&lt;li&gt;Arcanaque montibus omnes&lt;/li&gt;
-&lt;li&gt;Quidem et&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;vagus-elidunt&#34;&gt;Vagus elidunt&lt;/h1&gt;
-&lt;p&gt;&lt;svg class=&#34;canon&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; overflow=&#34;visible&#34; viewBox=&#34;0 0 496 373&#34; height=&#34;373&#34; width=&#34;496&#34;&gt;&lt;g fill=&#34;none&#34;&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#ED1C24&#34; stroke-width=&#34;.75&#34; d=&#34;M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.479.375h495v372h-495zM247.979.875v372&#34;&gt;&lt;/path&gt;&lt;ellipse cx=&#34;498.729&#34; cy=&#34;177.625&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;ellipse cx=&#34;247.229&#34; cy=&#34;377.375&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon&#34;&gt;The Van de Graaf Canon&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;mane-refeci-capiebant-unda-mulcebat&#34;&gt;Mane refeci capiebant unda mulcebat&lt;/h2&gt;
-&lt;p&gt;Victa caducifer, malo vulnere contra
-dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere
-furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong&gt;Faces illo pepulere&lt;/strong&gt; tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p&gt;
-&lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli
-Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare
-Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert
-ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae
-vulnus haerentia iuste et exercebat, sui et.&lt;/p&gt;
-&lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem
-Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;style&gt;
-.canon { background: white; width: 100%; height: auto;}
-&lt;/style&gt;</description>
     </item>
     
     
