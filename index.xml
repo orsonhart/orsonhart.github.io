@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Orson Hart</title>
-    <link>https://orsonh.art/</link>
+    <link>https://orsonhart.com/</link>
     <description>Recent content on Orson Hart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://orsonh.art/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://orsonhart.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>Archiving Hamish and Andy</title>
-      <link>https://orsonh.art/handa/</link>
+      <link>https://orsonhart.com/handa/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://orsonh.art/handa/</guid>
+      <guid>https://orsonhart.com/handa/</guid>
       <description>&lt;p&gt;As a digital minimalist, I often want to spend time disconnected. To limit the amount of time I spend using a smartphone, I like to listen to music, audiobooks, and podcasts on my 2009 iPod Classic.&lt;/p&gt;
 &lt;p&gt;One challenge is that some media is resistant to being accessed offline. This includes my absolute favourite - the Hamish and Andy podcast - which has its entire back catalogue &lt;a href=&#34;https://handa.libsyn.com/&#34;&gt;available on Libsyn&lt;/a&gt; available with a premium subscription. This post will explain how to download these premium podcasts for archiving or offline listening.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Note: These instructions are designed to work on Windows.&lt;/strong&gt;&lt;/p&gt;
@@ -36,7 +36,7 @@
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;  The &lt;code&gt;--parse-metadata&lt;/code&gt; flag stops &amp;ldquo;Hamish &amp;amp; Andy&amp;rdquo; from duplicating in the filename if the podcast titles incude &amp;ldquo;Hamish &amp;amp; Andy -&amp;rdquo;, and can be removed if appropriate.&lt;/p&gt;
 &lt;p&gt;Let &lt;code&gt;yt-dlp&lt;/code&gt; run and all the podcast files should be downloaded to the specified &lt;code&gt;/YYYY/MM&lt;/code&gt; folder. A screenshot of the podcasts from February 2013 is below.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://orsonh.art/handa_list.png&#34; alt=&#34;handa_list&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://orsonhart.com/handa_list.png&#34; alt=&#34;handa_list&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -44,10 +44,10 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://orsonh.art/placeholder-text/</link>
+      <link>https://orsonhart.com/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://orsonh.art/placeholder-text/</guid>
+      <guid>https://orsonhart.com/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;
 &lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice
